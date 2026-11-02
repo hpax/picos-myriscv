@@ -1,0 +1,14 @@
+*.bin
+*.elf
+*.hex
+*.o
+*.s
+*.i
+*.map
+*.lst
+*.a
+picos/irqtable.S
+bench/*.vvp
+bench/work/
+bench/transcript
+bench/vsim.wlf
